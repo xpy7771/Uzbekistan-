@@ -1,0 +1,74 @@
+/*GLOBAL*/
+body{
+    font-family:"Roboto Thin", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #000;
+    background-color: #FFF;
+}
+
+/*HEADER*/
+.header-1{
+    background-color: #FFF;
+}
+.site-logo-img{
+    height: 50px;
+    object-fit: cover;
+}
+.sitenav-list{
+    list-style: none;
+}
+.sitenav-link{
+    font-family: "Bebas Neue", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+
+}
+.hero{
+    background-color: aquamarine;
+}
+
+.hero-heading{
+    font-size: 60px;
+}
+.btn{
+    text-decoration: none;
+}
+.hero-button{
+    color: #fff;
+}
+.news-heading{
+    font-size: 32px;
+    font-family: "Bebas Neue", sans-serif;
+}
+.news-list{
+    list-style: none;
+}
+.news-item-img{
+    height: 200px;
+    width: 400px;
+    object-fit: cover;
+}
+
+/*FOOTER*/
+.footer-1{
+    background-color: #000;
+}
+.sitenav-link2{
+    color: #FFF;
+}
+
+/*h1{*/
+/*    text-align: center;*/
+/*    color: chartreuse;*/
+/*}*/
+/*p{*/
+/*    font-size: 20px;*/
+/*    color: red;*/
+/*    border: 2px solid beige;*/
+/*    border-radius: 10px;*/
+/*}*/
